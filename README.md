@@ -2,7 +2,7 @@
 
 ### Simple Demo:
 
-The input prompt is sent to the model alongside the uploaded invoice.  
+The input prompt is sent to the model alongside the uploaded invoice, spiced with a bit of prompt engineering.  
 The response of the model can be seen at the bottom.
 
 ![Testing the Invoice Data Extractor Streamlit App](./images/upper-screen.png)
